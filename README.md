@@ -48,7 +48,7 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 
-### Github stats
+### Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivekvardhan2810&theme=dracula&border_radius=4.9)](https://git.io/streak-stats)
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekvardhan2810&show_icons=true&theme=tokyonight)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="vivekvardhan2810's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=vivekvardhan2810&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
