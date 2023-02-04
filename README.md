@@ -19,5 +19,24 @@
 
 </p>
 
-<h3 align="left">Languages:</h3>
-<a 
+<h3 align="left">Languages and Tools:</h3>
+<p>
+   <!-- Html -->
+   <a href="https://github.com/vivekvardhan2810" >
+   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Html" width="40" height="40"/></a>
+   <!-- CSS -->
+   <a href="https://github.com/vivekvardhan2810"> 
+   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
+  <!-- Python -->
+   <a href="https://github.com/search?l=Python&q=user%3Avivekvardhan2810&type=Repositories" > 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <!-- JavaScript -->
+   <a href="https://github.com/vivekvardhan2810"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
+  <!-- Vs Code -->
+   <a href="https://github.com/search?q=user%3Avivekvardhan2810&type=repositories" >
+   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
+  <!-- Git -->
+   <a href="https://github.com/search?q=user%3Avivekvardhan2810&type=repositories" > 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+</p>
