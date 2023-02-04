@@ -29,7 +29,7 @@
    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/></a>
   <!-- Python -->
    <a href="https://github.com/search?l=Python&q=user%3Avivekvardhan2810&type=Repositories" > 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> 
   <!-- JavaScript -->
    <a href="https://github.com/vivekvardhan2810"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
@@ -42,4 +42,6 @@
 </p>
 
 ### Github stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivekvardhan2810&theme=gruvbox&border_radius=4.9)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivekvardhan2810&theme=dracula&border_radius=4.9)](https://git.io/streak-stats)
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekvardhan2810&show_icons=true&theme=tokyonight)
+   
