@@ -40,3 +40,7 @@
    <a href="https://github.com/search?q=user%3Avivekvardhan2810&type=repositories" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 </p>
+
+### Github stats
+![](https://github-readme-stats.vercel.app/api?username=vivekvardhan2810&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vivekvardhan2810&theme=dark&hide_border=true)<br/>
