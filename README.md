@@ -5,6 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekvardhan2810&label=Profile%20views&color=0e75b6&style=flat" alt="vivekvardhan2810" /> </p>
 </br>
 
+- 🔭 I’m currently working on **Web Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/vivekvardhan2810](https://github.com/vivekvardhan2810)
+
+- 📝 I post on [https://www.linkedin.com/in/vivek-vardhan-23682521b/](https://www.linkedin.com/in/vivek-vardhan-23682521b/)
+
+- 📫 How to reach me **vivekvardhan43862@gmail.com**
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vivek-vardhan-23682521b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankush-ranjan-a72929218/" height="30" width="40" /></a>
