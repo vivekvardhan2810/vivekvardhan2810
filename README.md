@@ -18,6 +18,7 @@
 <a href="https://www.hackerrank.com/vivekvardhan4381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vivekvardhan4381" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/vivekvardhan2803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vivekvardhan2803" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vivek_43862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek_43862" height="30" width="40" /></a>
+<a href="https://twitter.com/Vivek43862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vivek43862" height="30" width="40" /></a>
 </p>
 </p>
 
