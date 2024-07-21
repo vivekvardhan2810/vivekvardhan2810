@@ -54,3 +54,6 @@
 ### Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivekvardhan2810&theme=dracula&border_radius=4.9)](https://git.io/streak-stats)
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekvardhan2810&show_icons=true&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vivekvardhan2810&limit=5&theme=radical&combine_all_yearly_contributions=true)
