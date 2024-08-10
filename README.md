@@ -4,13 +4,6 @@
 <img align="right" alt="coding" width:"400" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekvardhan2810&label=Profile%20views&color=0e75b6&style=flat" alt="vivekvardhan2810" /> </p>
-- 🔭 I’m currently working on Web Projects
-
-- 👨‍💻 All of my projects are available at [https://github.com/vivekvardhan2810](https://github.com/vivekvardhan2810)
-
-- 📝 I post on [https://www.linkedin.com/in/vivek-vardhan-23682521b/](https://www.linkedin.com/in/vivek-vardhan-23682521b/)
-
-- 📫 How to reach me **vivekvardhan43862@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
