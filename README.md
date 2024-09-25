@@ -45,9 +45,17 @@
   </p>
 
 ### Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vivekvardhan2810&theme=dracula&border_radius=4.9)](https://git.io/streak-stats)
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekvardhan2810&show_icons=true&theme=tokyonight)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvardhan2810&hide=jupyter%20notebook&theme=radical"  alt="vivek" env="PAT_1" /></p>
+# 📊 GitHub Stats:
+
+![](https://komarev.com/ghpvc/?username=vivekvardhan2810&abbreviated=true) <br/>
+<a href="https://github.com/vivekvardhan2810">
+![](https://github-readme-stats.vercel.app/api?username=vivekvardhan2810&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvardhan2810&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vivekvardhan2810&theme=blue-green&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivekvardhan2810&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivekvardhan2810&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivekvardhan2810&theme=blue_green&utcOffset=8)
+<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vivekvardhan2810&limit=5&theme=radical&combine_all_yearly_contributions=true)
