@@ -1,4 +1,4 @@
-<h1 align="center"> Hi , Myself Vivek Vardhan</h1>
+<h1 align="center"> Hi , Myself Vivek Vardhan</h1> 
 <h3 align="center">An Enthusiastic ML and Web Developer from India</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8151F7&width=435&lines=I+am+a+Web+Developer;Exploring+AI+and+ML;Improving+New+Skills" alt="Typing SVG" /></a> 
 <img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
