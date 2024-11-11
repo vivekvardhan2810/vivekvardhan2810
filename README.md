@@ -45,3 +45,10 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /></a>
 </div>
+
+## Hacktoberfest'24 Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+
+![image](https://github.com/user-attachments/assets/045c7724-40bf-40ff-bce1-d214fd62ed6d)
+
+</div>
